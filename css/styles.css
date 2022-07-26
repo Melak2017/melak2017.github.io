@@ -224,6 +224,45 @@ img{
 }
 
 /*BUTTONS*/
+
+.project_button{
+    display: inline-block;
+    background-color: #28425f;
+    color: #fff;
+    border: 0;
+    border-radius: 0;
+    cursor: pointer;
+    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-weight: 900;
+    height: 2.8rem;
+    width: 8rem;
+    line-height: 3rem;
+    padding: 0 2rem;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    white-space: nowrap;
+
+  }
+.project_button2 {
+  display: inline-block;
+  background-color: #28425f;
+  color: #fff;
+  border: 0;
+  border-radius: 0;
+  cursor: pointer;
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-weight: 900;
+  height: 2.8rem;
+  width: 11rem;
+  line-height: 3rem;
+  padding: 0 2rem;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  white-space: nowrap;
+
+}
 .button{
   display: inline-block;
   background-color: var(--first-color);
@@ -325,7 +364,7 @@ img{
   border-radius: .5rem;
   overflow: hidden;
   width: 22rem;
-  height: 22rem;
+  height: 30rem;
 }
 .work__img img{
   transition: 1s;
